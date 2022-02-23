@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Techie420
 - 👀 I’m interested in IoT and AI
-- 🌱 I’m currently learning AWS IoT
-- 💞️ I’m looking to collaborate on IoT projects
+- 🌱 I’m currently learning MEAN Stack 
+- 💞️ I’m looking to collaborate on Full stack development
 - 📫 How to reach me ritikshreyas@gmail.com
 
 <!---
